@@ -1,0 +1,10 @@
+.vs/
+.vsconfig
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+Library/
+Logs/
+Temp/
+Practice_Battle.sln
+UserSettings/
+obj/
